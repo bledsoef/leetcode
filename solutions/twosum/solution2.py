@@ -1,5 +1,5 @@
 # slightly less brute force
-# time complexity: O(n)
+# time complexity: O(nlogn)
 from typing import List
 
 class Solution:
