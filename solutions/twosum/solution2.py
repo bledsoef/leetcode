@@ -1,3 +1,5 @@
+# slightly less brute force
+# time complexity: O(n)
 from typing import List
 
 class Solution:
